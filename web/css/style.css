@@ -1,0 +1,51 @@
+body {
+    background: url("../images/1.jpg");
+    animation-name: myfirst;
+    animation-duration: 12s;
+    /*变换时间*/
+    animation-delay: 2s;
+    /*动画开始时间*/
+    animation-iteration-count: infinite;
+    /*下一周期循环播放*/
+    animation-play-state: running;
+    /*动画开始运行*/
+}
+
+@keyframes myfirst {
+    0% {
+        background: url("../images/1.jpg");
+    }
+    34% {
+        background: url("../images/2.jpg");
+    }
+    67% {
+        background: url("../images/3.jpg");
+    }
+    100% {
+        background: url("../images/1.jpg");
+    }
+}
+
+/*表单的位置、长度、颜色和透明度*/
+.form {
+    background: rgba(255, 255, 255, 0.3);
+    width: 500px;
+    margin: 200px auto;
+}
+
+/*阴影*/
+.fa {
+    display: inline-block;
+    top: 27px;
+    left: 6px;
+    position: relative;
+    color: #ccc;
+}
+
+input[type="text"], input[type="password"] {
+    padding-left: 26px;
+}
+
+.checkbox {
+    padding-left: 21px;
+}
