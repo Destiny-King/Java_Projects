@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a04a2fc7-0956-492a-abe1-d93864e68f5b" name="Default Changelist" comment="Add zookeeper consul.">
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/controller/LogoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/controller/RegisterControllert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/controller/UsersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/vo/LoginUserVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/BlogApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/BlogApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/controller/ArticleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/service/LoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/service/LoginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/service/SysUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/service/SysUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/service/impl/LoginServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/service/impl/SysUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/service/impl/SysUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/vo/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/vo/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/vo/params/LoginParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/blog-api/src/main/java/com/wym/blog/vo/params/LoginParam.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Destiny-King/Java_Projects" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Files\localRepository" />
+        <option name="mavenHome" value="C:\Software\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Software\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GCsKdRw0yiHUmnmpeCUNnEdz8m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/consumerconsul-order80/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.12674272" />
+    <property name="project.structure.side.proportion" value="0.37311384" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program\Java\IDEA\Java_Project\cloud2022\consumerconsul-order80\src\main\resources" />
+      <recent name="D:\Program\Java\IDEA\Java_Project\cloud2022\payment8006\src\main\resources" />
+      <recent name="D:\Program\Java\IDEA\Java_Project\cloud2022\consumerzk-order80\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wym.springcloud.controller" />
+      <recent name="com.wym.springcloud.config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderConsulMain80">
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wym.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wym.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wym.springcloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderConsulMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="consumerconsul-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wym.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wym.springcloud.OrderConsulMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wym.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderZKMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="consumerzk-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wym.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wym.springcloud.OrderZKMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wym.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wym.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="payment8004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wym.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wym.springcloud.PaymentMain8004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8006" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="payment8006" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wym.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wym.springcloud.PaymentMain8006" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.EurekaMain7002" />
+      <item itemvalue="Spring Boot.OrderMain80" />
+      <item itemvalue="Spring Boot.OrderZKMain80" />
+      <item itemvalue="Spring Boot.OrderConsulMain80" />
+      <item itemvalue="Spring Boot.PaymentMain8001" />
+      <item itemvalue="Spring Boot.PaymentMain8002" />
+      <item itemvalue="Spring Boot.PaymentMain8004" />
+      <item itemvalue="Spring Boot.PaymentMain8006" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a04a2fc7-0956-492a-abe1-d93864e68f5b" name="Default Changelist" comment="" />
+      <created>1665903839260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665903839260</updated>
+      <workItem from="1665903840523" duration="112000" />
+      <workItem from="1665923647930" duration="488000" />
+      <workItem from="1665924174422" duration="1636000" />
+      <workItem from="1666942116581" duration="353000" />
+      <workItem from="1666945322829" duration="92000" />
+      <workItem from="1667812853355" duration="55000" />
+      <workItem from="1667901412441" duration="30000" />
+      <workItem from="1669637450568" duration="3123000" />
+      <workItem from="1669686904652" duration="5679000" />
+      <workItem from="1669769993745" duration="5000" />
+      <workItem from="1669770833288" duration="15000" />
+      <workItem from="1669773956987" duration="1918000" />
+      <workItem from="1677485156405" duration="58000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add zookeeper consul.">
+      <created>1669697256159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669697256159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add zookeeper consul." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add zookeeper consul." />
+  </component>
+</project>

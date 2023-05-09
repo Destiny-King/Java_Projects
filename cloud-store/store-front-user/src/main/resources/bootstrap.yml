@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: user-service  # 程序名就是服务名
+  cloud:
+    nacos:
+      config:
+        server-addr: localhost:8848
+      discovery:
+        server-addr: localhost:8848
+
+server:
+  port: 3001

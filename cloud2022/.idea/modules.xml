@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud2022.iml" filepath="$PROJECT_DIR$/cloud2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-order80/consumer-order80.iml" filepath="$PROJECT_DIR$/consumer-order80/consumer-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumerconsul-order80/consumerconsul-order80.iml" filepath="$PROJECT_DIR$/consumerconsul-order80/consumerconsul-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumerzk-order80/consumerzk-order80.iml" filepath="$PROJECT_DIR$/consumerzk-order80/consumerzk-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server7001/eureka-server7001.iml" filepath="$PROJECT_DIR$/eureka-server7001/eureka-server7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server7002/eureka-server7002.iml" filepath="$PROJECT_DIR$/eureka-server7002/eureka-server7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment8001/payment8001.iml" filepath="$PROJECT_DIR$/payment8001/payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment8002/payment8002.iml" filepath="$PROJECT_DIR$/payment8002/payment8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment8004/payment8004.iml" filepath="$PROJECT_DIR$/payment8004/payment8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment8006/payment8006.iml" filepath="$PROJECT_DIR$/payment8006/payment8006.iml" />
+    </modules>
+  </component>
+</project>

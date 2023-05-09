@@ -1,0 +1,12 @@
+server:
+  port: 9099
+
+spring:
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql://localhost:3306/favorite?useSSL=false&serverTimezone=UTC
+
+logging:
+  level:
+    com.wym: debug
