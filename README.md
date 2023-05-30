@@ -10,7 +10,7 @@
 
 5.medical-demo
 
-6.MyBlog
+6.learn-demo
 
 7.cloud-store
 
